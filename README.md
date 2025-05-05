@@ -13,12 +13,21 @@ A responsive and feature-rich weather application built with **Next.js**, **Tail
 ---
 ## ⚙️ Getting Started
 
-### 1. Clone the Repository
+### 1. Clone the Repository and add API keys
 
-```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 create file name .env.local 
 add your openweather api key and name it NEXT_PUBLIC_WEATHER_KEY
-```
+
+
+### 2. Clone the Repository
+
+npm install
+npm run dev
+
+### 3. For PWA in local 
+
+npm run build 
+npm run dev
 
