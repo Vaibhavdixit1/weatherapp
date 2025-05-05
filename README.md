@@ -28,8 +28,3 @@ A responsive and feature-rich weather application built with **Next.js**, **Tail
 npm install
 npm run dev
 
-### 3. For PWA in Local
-
-```bash
-npm run build
-npm run dev
